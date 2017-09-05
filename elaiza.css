@@ -53,16 +53,16 @@ h1 {
 	font-family: 'Arvo', serif;
 }
 
-.red {
-	  background-color: #980D01;
+.green {
+	  background-color: #CCE21B;
 }
 
-.black {
-  background-color: #1A1F0C;
+.light_blue {
+  background-color: #23F2C9;
 }
 
-.white {
-  background-color: #FFF6E8;
+.dark_blue {
+  background-color: #16DFC;
 }
 
 .mustard_yellow {
