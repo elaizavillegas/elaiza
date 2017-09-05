@@ -37,20 +37,24 @@ h1 {
   display: inline-table;
 }
 
-.meddon {
-	font-family: 'Meddon', cursive;
+.Arimo {
+	font-family: 'Arimo', sans-serif;
 }
 
-.open {
-	font-family: 'Open Sans', sans-serif;
+.flower {
+	font-family: 'Indie Flower', cursive;
 }
 
-.crimson { 
-	font-family: 'Crimson Text', serif;
+.open { 
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 
-.arvo {
-	font-family: 'Arvo', serif;
+.oswald {
+	font-family: 'Oswald', sans-serif;
+}
+
+.ubuntu {
+	font-family: 'Ubuntu', sans-serif;
 }
 
 .green {
